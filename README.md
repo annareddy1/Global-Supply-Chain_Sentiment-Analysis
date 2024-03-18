@@ -31,20 +31,21 @@ Most Used Words includes [Figure 2]:
 ![Most Used Words](./D18201E6-2264-4F83-8FB1-098779CDC183_4_5005_c.jpeg)
 
 Negative Sentiment Words includes [Figure 3]:
-1. "Finland"
-2. "Canadian industry"
-3. "Transport"
-4. "Threat software"
+1. "finland"
+2. "canadian industry"
+3. "transport strike"
+4. "threat software"
+5. "war wincanton"
 
 #### Figure 3: Words used in Negative Sentiment
 ![Words used in Negative Sentiment](./4BDD6CAB-1F2E-4C1E-857C-E322B2AD5787.jpeg)
 
 Positive Sentiment Words includes [Figure 4]:
-1. "Semiconductor"
-2. "Job Malaysia"
-3. "Forest"
-4. "Intermodal"
-5. "Gaineurope"
+1. "semiconductor"
+2. "job malaysia"
+3. "save forest"
+4. "intermodal"
+5. "europe save"
 
 #### Figure 4: Words used in Positive Sentiment
 ![Words used in Positive Sentiment](./0B858F2E-E1DC-4F7C-8ED7-4FA9D588EE8E.jpeg)
