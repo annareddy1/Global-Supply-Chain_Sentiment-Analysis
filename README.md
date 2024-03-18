@@ -1,7 +1,7 @@
 # Supply-Chain-Sentiment-Analysis
 The global supply chain is a crucial driver of the world economy, enabling the movement of goods and services worldwide and directly impacting economic growth. Analyzing sentiment surrounding the global supply chain in March 2024 reveals whether it's positive or negative, offering insights into improvements and disruptions.
 
-In March 2024, the global supply chain is experiencing a predominantly positive sentiment, as indicated by a sentiment analysis of over 23,260 news articles related to "supply chain" gathered from Google News. The sentiment analysis, with a high accuracy of 94.5%, reveals that 10.4% of the sentiment is positive, 6.4% is negative, and the majority, 83.2%, is neutral [Figure 1].
+In March 2024, the global supply chain is experiencing a predominantly positive sentiment, as indicated by a sentiment analysis of over 23,260 news articles related to "supply chain" gathered from Google News. The sentiment analysis, with a high accuracy of 98.37%, reveals that 10.4% of the sentiment is positive, 6.4% is negative, and the majority, 83.2%, is neutral [Figure 1].
 
 #### Figure 1: News sentiments regarding supply chain management 
 ![global supply chain sentiment analysis chart](./1ACD0222-FADA-4013-B5C5-12290C07B9A2_4_5005_c.jpeg)
