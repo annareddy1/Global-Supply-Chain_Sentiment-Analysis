@@ -37,7 +37,7 @@ Negative Sentiment Words includes [Figure 3]:
 4. "Threat software"
 
 #### Figure 3: Words used in Negative Sentiment
-![Words used in Negative Sentiment](./1298478A-B6D5-495F-B6FF-3FF179D0A9DE.jpeg)
+![Words used in Negative Sentiment](./4BDD6CAB-1F2E-4C1E-857C-E322B2AD5787.jpeg)
 
 Positive Sentiment Words includes [Figure 4]:
 1. "Semiconductor"
@@ -47,7 +47,7 @@ Positive Sentiment Words includes [Figure 4]:
 5. "Gaineurope"
 
 #### Figure 4: Words used in Positive Sentiment
-![Words used in Positive Sentiment](./3B670384-065F-402F-AA26-328B6A1D1EE7.jpeg)
+![Words used in Positive Sentiment](./0B858F2E-E1DC-4F7C-8ED7-4FA9D588EE8E.jpeg)
 
 ## Insights and Conclusion
 
