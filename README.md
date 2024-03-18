@@ -6,6 +6,10 @@ In March 2024, the global supply chain is experiencing a predominantly positive 
 #### Figure 1: News sentiments regarding supply chain management 
 ![global supply chain sentiment analysis chart](./1ACD0222-FADA-4013-B5C5-12290C07B9A2_4_5005_c.jpeg)
 
+## Sentiment Analysis Results
+
+I performed sentiment analysis on the data. `sklearn`'s `confusion matrix` and `accuracy_score` was utilized to evaluate the classification model's performance. The model accuracy is calculated as (TP + TN) / (TP + TN + FP + FN), which is 0.9837 or approximately 98.37%. This indicates that the model is performing very well on the test data, with a high percentage of correct predictions.
+
 ## Factors Influencing Sentiment
 
 1. Legislation and Human Rights: European Union countries are backing new human rights supply chain laws, reflecting a positive development towards ethical and responsible supply chain management.
