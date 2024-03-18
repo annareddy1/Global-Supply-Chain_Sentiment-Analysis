@@ -1,7 +1,10 @@
 # Supply-Chain-Sentiment-Analysis
 The global supply chain is a crucial driver of the world economy, enabling the movement of goods and services worldwide and directly impacting economic growth. Analyzing sentiment surrounding the global supply chain in March 2024 reveals whether it's positive or negative, offering insights into improvements and disruptions.
 
-In March 2024, the global supply chain is experiencing a predominantly positive sentiment, as indicated by a sentiment analysis of over 43,000 news articles related to "supply chain" gathered from Google News. The sentiment analysis, with a high accuracy of 94.5%, reveals that 10.4% of the sentiment is positive, 6.4% is negative, and the majority, 83.2%, is neutral.
+In March 2024, the global supply chain is experiencing a predominantly positive sentiment, as indicated by a sentiment analysis of over 43,000 news articles related to "supply chain" gathered from Google News. The sentiment analysis, with a high accuracy of 94.5%, reveals that 10.4% of the sentiment is positive, 6.4% is negative, and the majority, 83.2%, is neutral [Figure 1].
+
+#### Figure 1: News sentiments regarding supply chain management 
+![global supply chain sentiment analysis chart](./1ACD0222-FADA-4013-B5C5-12290C07B9A2_4_5005_c.jpeg)
 
 ## Factors Influencing Sentiment
 
@@ -12,7 +15,7 @@ In March 2024, the global supply chain is experiencing a predominantly positive 
 
 ## Word Analysis
 
-Most Used Words includes:
+Most Used Words includes [Figure 2]:
 1. "Law"
 2. "Software"
 3. "Reliance"
@@ -20,18 +23,27 @@ Most Used Words includes:
 5. "Technology"
 6. "China"
 
-Negative Sentiment Words includes:
+#### Figure 2: Most Used Words 
+![Most Used Words](./D18201E6-2264-4F83-8FB1-098779CDC183_4_5005_c.jpeg)
+
+Negative Sentiment Words includes [Figure 3]:
 1. "Finland"
 2. "Canadian industry"
 3. "Transport"
 4. "Threat software"
 
-Positive Sentiment Words includes:
+#### Figure 3: Words used in Negative Sentiment
+![Words used in Negative Sentiment](./1298478A-B6D5-495F-B6FF-3FF179D0A9DE.jpeg)
+
+Positive Sentiment Words includes [Figure 4]:
 1. "Semiconductor"
 2. "Job Malaysia"
 3. "Forest"
 4. "Intermodal"
 5. "Gaineurope"
+
+#### Figure 4: Words used in Positive Sentiment
+![Words used in Positive Sentiment](./3B670384-065F-402F-AA26-328B6A1D1EE7.jpeg)
 
 ## Insights and Conclusion
 
