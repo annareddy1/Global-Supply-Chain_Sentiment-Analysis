@@ -20,12 +20,16 @@ I performed sentiment analysis on the data. `sklearn`'s `confusion matrix` and `
 ## Word Analysis
 
 Most Used Words includes [Figure 2]:
-1. "Law"
-2. "Software"
-3. "Reliance"
-4. "Qwik"
-5. "Technology"
-6. "China"
+1. "law"
+2. "late"
+3. "oracle"
+4. "software"
+5. "attack"
+6. "china"
+7. "resilience"
+8. "reliance"
+9. "qwik"
+10. "technology"
 
 #### Figure 2: Most Used Words 
 ![Most Used Words](./D18201E6-2264-4F83-8FB1-098779CDC183_4_5005_c.jpeg)
